@@ -1,6 +1,6 @@
 # LifeInPrisonRevolver
 this script gets da revolver in life in prison, u hav to manually walk to it though, there is esp init to guide u  
-
+```lua loadstring(game:HttpGet("https://raw.githubusercontent.com/IWillyLovePython/LifeInPrisonRevolver/main/main.lua"))()```
 Rev Stats:  
 Damage = 50% of health  
   
